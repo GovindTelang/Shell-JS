@@ -52,6 +52,6 @@ const cd = (args) => {
         readDir(dir)
         process.chdir(dir)
     } catch (err) {
-        console.log("Error: directory not found:", args[0])
+        console.log("Error: directory not available", args[0])
     }
 }
