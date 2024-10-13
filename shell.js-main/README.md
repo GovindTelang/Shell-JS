@@ -8,7 +8,7 @@ It includes built-in commands like ls, pwd, cd etc
 1. Make sure Node and npm are installed (Node version used: v16.18.1, NPM version used: 8.19.2)
 2. Run the following commands
     ```
-    git clone https://github.com/tesla59/shell.js
+    git clone https://github.com/GovindTelang/shell.js
     cd shell.js
     npm install
     node shell.js
